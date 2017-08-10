@@ -1,0 +1,1 @@
+GThis is a sample import file
